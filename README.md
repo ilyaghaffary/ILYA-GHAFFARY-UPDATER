@@ -6,6 +6,22 @@
   <p>A fast, secure, and visually dynamic utility designed to streamline package and software updates across major operating systems.</p>
 </div>
 
+---
+
+## 🚀 Instant Download
+
+> **Get the latest release for your platform with a single click:**
+
+| Platform | Architecture / Type | Format | Direct Download Link |
+| :--- | :---: | :---: | :--- |
+| **🪟 Windows** | x64 / Desktop | Executable (.exe) | [📥 Download for Windows](https://github.com/ilyaghaffary/ILYA-GHAFFARY-UPDATER/releases/download/1.0.0v/ILYA.GHAFFARY.UPDATER.exe) |
+| **🐧 Linux** | x86_64 / Desktop | Archive (.zip) | [📥 Download for Linux](https://github.com/ilyaghaffary/ILYA-GHAFFARY-UPDATER/releases/download/1.0.0v/IlyaUpdater-Executable-Linux.zip) |
+| **🍎 macOS** | Apple Silicon / Intel | Archive (.zip) | [📥 Download for macOS](https://github.com/ilyaghaffary/ILYA-GHAFFARY-UPDATER/releases/download/1.0.0v/IlyaUpdater-Executable-macOS.zip) |
+
+🔍 **All Releases & Tags:** [View GitHub Releases Page](https://github.com/ilyaghaffary/ILYA-GHAFFARY-UPDATER/releases)
+
+---
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/ilyaghaffary/ilyaghaffary/main/assets/welcome_coding.gif" alt="Animated Welcome" width="450"/>
 </div>
